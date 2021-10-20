@@ -1,0 +1,10 @@
+2021-10-20 15:30:36  [ main:0 ] - [ INFO ]  FastJson's length: 69
+2021-10-20 15:30:36  [ main:0 ] - [ INFO ]  FastJson's length: 69
+2021-10-20 15:30:36  [ main:11 ] - [ INFO ]  Native java's serializer length: 219
+2021-10-20 15:30:36  [ main:11 ] - [ INFO ]  Native java's serializer length: 219
+2021-10-20 15:30:36  [ main:11 ] - [ INFO ]  Base64's serializer length: 295
+2021-10-20 15:30:36  [ main:11 ] - [ INFO ]  Base64's serializer length: 295
+2021-10-20 15:30:36  [ main:47 ] - [ INFO ]  google protobuf length: 44
+2021-10-20 15:30:36  [ main:47 ] - [ INFO ]  google protobuf length: 44
+2021-10-20 15:30:36  [ main:259 ] - [ INFO ]  Avro's serializer length: 41
+2021-10-20 15:30:36  [ main:259 ] - [ INFO ]  Avro's serializer length: 41
